@@ -1,0 +1,94 @@
+.fondo {
+    background-image: url('img/banner.jpg');
+    background-size: cover;
+    background-position: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+.fondo3 {
+    background-image: url('img/cannabis-plant-1920x1000.jpg');
+    background-size: cover;
+    background-position: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+.redon-img{
+    border-radius: 1.5%;
+    margin-bottom: 20px;
+}
+body {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.fondo2 {
+    background-image: url('img/beneficios.jpg');
+    background-size: cover;
+    background-position: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+.fondo5 {
+    background-image: url('img/1440x810_cmsv2_34f3a6c6-5eb6-56bc-af18-321d52076f8a-7831300_jpg\(1\).png');
+    background-size: cover;
+    background-position: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+.fondo4 {
+    background-image: url('img/Marijuana_share.jpg');
+    background-size: cover;
+    background-position: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+.colorse{
+    align-content: justify;
+    color: black;
+    background-color: rgba(240, 248, 255, 0.89);
+    border: solid 1px white;
+    border-radius: 5px;
+    margin: 10px;
+}
+a {
+  color: green !important; /* Color verde para los enlaces */
+  transition: color 0.3s; /* Transición suave de color */
+}
+
+a:hover {
+  color: darkgreen !important; /* Color verde oscuro al pasar el ratón por encima */
+}
+
+c¿
+.conte{
+    align-content: justify;
+    color: black;
+    background-color: rgba(119, 204, 102, 0.692);
+    border: solid 1px rgb(64, 170, 61);
+    border-radius: 5px;
+    margin: 10px;
+}
+.bar{
+    color: rgb(255, 255, 255);
+    background-color: rgba(122, 160, 91, 0.89);
+}
